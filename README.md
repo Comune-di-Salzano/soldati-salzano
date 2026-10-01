@@ -10,7 +10,7 @@ Contenuto del repository
 
     File soldati_reduci.md
     
-    contiene l’elenco dei nomi dei soldati iall'interno di ciascuna fotografia.
+    contiene l’elenco dei nomi dei soldati all'interno di ciascuna fotografia.
 
 Origine del materiale
 
