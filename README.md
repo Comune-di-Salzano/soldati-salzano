@@ -24,3 +24,8 @@ Questa raccolta è resa disponibile per:
 
     permettere consultazione, studio e condivisione del materiale da parte della comunità, delle scuole e dei ricercatori.
 
+## Verifica impronta digitale dei files:
+- Su Linux: `sha256sum <nomefile>` 
+- Su MacOS: `shasum -a 256 <nomefile>` 
+- Su windows: `certutil -hashfile <nomefile> SHA256` da CMD oppure `Get-FileHash <nomefile> -Algorithm SHA256` da powershell
+
